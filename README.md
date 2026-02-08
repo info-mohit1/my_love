@@ -15,6 +15,9 @@ Open the extracted folder in:
 - VS Code terminal
 
 ### 3️⃣ Install Dependencies
+
 Run the following command:
+
 ```bash
 npm install
+
